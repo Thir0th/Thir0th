@@ -3,6 +3,13 @@
 
 
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+little+universe！！！)
+
+
+
+
+
+
 
 迷茫二进制选手 🤓🤣
 
@@ -10,8 +17,8 @@
 - 🌱 A Student From AYG
 - 👯 ChaMd5/AG-RT
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thir0th&show_icons=true&theme=radical)
 
  
  ## Who am I?
