@@ -1,7 +1,7 @@
 <h2 align="Center">  Welcome to the house of Thir0th <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p> <img alt="Static Badge" src="https://img.shields.io/badge/Binary Security-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange">  <img alt="Static Badge" src="https://img.shields.io/badge/python-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/C-green"> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 
 
 
@@ -47,6 +47,14 @@
 	
  ```
  
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Thir0th)](https://github.com/IceEnd)
+
+
+
+
+
+
+
 
  
  
